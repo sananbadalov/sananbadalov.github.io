@@ -214,3 +214,7 @@ a {
         display: none;
     }
 }
+
+footer p {
+    margin-bottom: 20px;
+}
