@@ -187,7 +187,7 @@ a {
     outline: 0;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 500px) {
     .hamb {
         display: block;
         border: 0;
@@ -217,4 +217,10 @@ a {
 
 footer p {
     margin-bottom: 20px;
+}
+
+@media screen and (max-width: 500px) {
+    .social {
+        display: none;
+    }
 }
