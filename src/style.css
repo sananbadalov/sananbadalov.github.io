@@ -1,5 +1,6 @@
 :root{
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 --main-bg: #3B4252;
@@ -147,6 +148,12 @@ footer {
 
 .project-card h3 {
     font-size: 30px;
+    margin-top: 15px;
+}
+
+.project-three h3 {
+    font-size: 28px;
+    
 }
 
 .project-container {
@@ -164,22 +171,25 @@ footer {
 .subtext {
     font-size: 20px;
     font-weight: 300;
+    margin-top: 20px;
 }
 
 .project-image {
     margin-top: 25px;
     width: 200px;
     border-radius: 90px;
+    height: 133.33px;
 }
 
 hr {
-    margin: 10px 20px 30px 20px;
+    margin: 5px 20px 30px 20px;
 }
 
 .project-link {
     text-decoration: none;
     color: #cc893d;
     font-weight: 500;
+    margin-top: auto;
 }
 
 a {
