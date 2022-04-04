@@ -1,6 +1,9 @@
+
 .hero{
     background-image: url(/img/under_construction.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+width: 100vw;
+height: 100vh;
 }
