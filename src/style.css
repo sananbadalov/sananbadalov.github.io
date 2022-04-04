@@ -1,10 +1,16 @@
 
-.hero{
+body{
     background-image: url(/img/under_construction.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: auto;
     background-attachment: fixed;
 width: 100vw;
 height: 100vh;
 }
+
+/* Media query for mobile devices  */
+@media only screen and (max-width: 767px) {
+    body {
+      background-image: url(/img/under_construction.jpg)
+    }
