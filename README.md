@@ -1,7 +1,5 @@
 # sananbadalov.github.io
 
-## my new personal site
+## my personal site
 
-____________________________________________________
-
-###Powered by HUGO...
+### Powered by HUGO...
