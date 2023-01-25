@@ -1,8 +1,6 @@
 # sananbadalov.github.io
 
-#my new personal site
-
-#My New Site is coming very soon...
+## my new personal site
 
 ____________________________________________________
 
