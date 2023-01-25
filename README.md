@@ -1,9 +1,9 @@
 # sananbadalov.github.io
 
-#my new portfolio
+#my new personal site
 
 #My New Site is coming very soon...
 
 ____________________________________________________
 
-###Site is gonna be redeveloped by me soon...
+###Powered by HUGO...
